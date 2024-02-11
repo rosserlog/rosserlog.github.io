@@ -5,3 +5,11 @@
 [2D Sierpinski Gasket](https://rosserlog.github.io/CIS367/HW1/gasket1-Rosser.html)
 
 [Homework 2.1](https://rosserlog.github.io/CIS367/HW2/triangle-interact.html)
+
+[Triangle-Anim](https://rosserlog.gitbub.io/CIS367/HW2/HW2.2/triangle-anim.html)
+
+[Triangle-Rotate](https://rosserlog.gitbub.io/CIS367/HW2/HW2.2/triangle-rotate.html)
+
+[Sierpinski-Click](https://rosserlog.gitbub.io/CIS367/HW2/HW2.2/sierpinski-click.html)
+
+[Gasket-Extended](https://rosserlog.gitbub.io/CIS367/HW2/HW2.2/gasket-extended.html)
