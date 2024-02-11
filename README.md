@@ -8,6 +8,8 @@
 
 [Homework 2.1](https://rosserlog.github.io/CIS367/HW2/triangle-interact.html)
 
+### Homework 2.2
+
 [Triangle-Anim](https://rosserlog.github.io/CIS367/HW2/HW2.2/triangle-anim.html)
 
 [Triangle-Rotate](https://rosserlog.github.io/CIS367/HW2/HW2.2/triangle-rotate.html)
