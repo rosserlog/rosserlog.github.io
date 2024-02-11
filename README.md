@@ -4,7 +4,7 @@
 
 [2D Sierpinski Gasket](https://rosserlog.github.io/CIS367/HW1/gasket1-Rosser.html)
 
-##Homework 2
+## Homework 2
 
 [Homework 2.1](https://rosserlog.github.io/CIS367/HW2/triangle-interact.html)
 
